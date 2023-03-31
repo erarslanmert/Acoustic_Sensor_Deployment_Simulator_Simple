@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="mainLogo">
+    <file>Microflownlogo_1.png</file>
+  </qresource>
+</RCC>
