@@ -1,1 +1,3 @@
 # Acoustic_Sensor_Deployment_Simulator_Simple
+Purpose of this program is to simulate acoustic sensor deployment around a field prior to a real event so that the unexpected problems can be prevented. The simulation includes acoustic behaviour of a calibler which is shot by a weapon, weather and geographical effects on acoustical behaviour. As a result by considering critical parameters in this simulation process, it is aimed to offer to the user an optimum deployment locations or an area for deployment of each sensor post.
+This program is the simplest version as a mock product to intorduce the concept to the steakholders of this project.
